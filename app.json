@@ -7,11 +7,11 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": { SHABAN-MD~hUgSGBQJ#n54ytUK7Zj1kk-BO2wTPIX1EFUYTyU0Z91zsMroZFVU
+    "SESSION_ID": {SHABAN-MD~hUgSGBQJ#n54ytUK7Zj1kk-BO2wTPIX1EFUYTyU0Z91zsMroZFVU},
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
-    },  
+  },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
